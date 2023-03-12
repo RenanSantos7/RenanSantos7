@@ -8,7 +8,7 @@ My goal is being a front-end dev.
 
 - ⚖️ I'm a lawyer, but I want to change carreer;
 - 🔭 I’m currently working on a [Vade Mecum project](https://github.com/RenanSantos7/Vade-Mecum) (law students know what is kkkk);
-- 💼 I've just made a [VisuAlg algorithms](https://github.com/RenanSantos7/Visualg-Algorithms) repository; So if you want to lear something about it...;
+- 💼 I've just made a [VisuAlg algorithms](https://github.com/RenanSantos7/Visualg-Algorithms) repository; So if you want to learn something about it...;
 - 🌱 I’m currently learning ***JavaScript***;
 
 <br><br>
