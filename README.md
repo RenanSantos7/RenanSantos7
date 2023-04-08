@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is Renan, I'm brazilian and I'm learning programming.
+My name is Renan, I'm a lawyer who is studying programming to change careers. I'm interested in web development and UX/UI design. I already have some knowledge of HTML and CSS and I'm currently learning JavaScript. 
 
-My goal is being a front-end dev.
+My goal is to become a front-end developer.
 
 ### Some facts about me:
 
