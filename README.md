@@ -6,9 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RenanSantos7&theme=defautl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSantos7&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 💻 Technologies
 <div>
   <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
