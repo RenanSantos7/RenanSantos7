@@ -1,18 +1,4 @@
-# Hi there 👋
 
-My name is Renan, I'm a lawyer who is studying programming to change careers. I'm interested in web development and UX/UI design. I already have some knowledge of HTML and CSS and I'm currently learning JavaScript. 
-
-My goal is to become a front-end developer.
-
-### Some facts about me:
-
-- ⚖️ I'm a lawyer, but I want to change carreer;
-- 🔭 I’m currently working on a [Vade Mecum project](https://github.com/RenanSantos7/Vade-Mecum) (law students know what is kkkk);
-- 💼 I've just made a [VisuAlg algorithms](https://github.com/RenanSantos7/Visualg-Algorithms) repository; So if you want to learn something about it...;
-- 📋 I'm a great fan of take notes on [Obsidian](https://obsidian.md) and I have an [Obsidian basic templates repo](https://github.com/RenanSantos7/Obisidan-Basic-Templates);
-- 🌱 I’m currently learning ***JavaScript*** and I've just made:
-  - a [calculator with JS](https://github.com/RenanSantos7/Calculadora-JS);
-  - a [pizzeria menu to be used with QRCode](https://github.com/RenanSantos7/Cardapio-QRCode).
   
 ## 📊 GitHub Stats
 
