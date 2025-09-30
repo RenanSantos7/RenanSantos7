@@ -21,3 +21,10 @@
   
   <!--- Para mais ícones buscar em https://devicon.dev/ --->
 </div>
+
+## 🔗 Links
+<div style="display: flex; gap: 0.75rem;">
+  <img title="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img title="GitLab" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <!--- Para mais ícones buscar em https://devicon.dev/ --->
+</div>
